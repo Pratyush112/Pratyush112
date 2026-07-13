@@ -10,9 +10,7 @@ Software Engineer passionate about solving complex problems through clean, scala
 
 # 💻 Tech Stack and Skills:
 ### Programming Language
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) <br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br/>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) (Learning)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,typescript)](https://skillicons.dev)
 
 --- 
 ### Frontend
