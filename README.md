@@ -39,15 +39,18 @@ Software Engineer passionate about solving complex problems through clean, scala
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) <br/>
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#) <br/>
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Pratyush112&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Pratyush112&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratyush112&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pratyush112&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
