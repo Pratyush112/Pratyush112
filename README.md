@@ -42,15 +42,8 @@ Software Engineer passionate about solving complex problems through clean, scala
 ---
 
 # 📊 GitHub Stats:
-<center>
-  
 ![](https://github-readme-stats.shion.dev/api?username=Pratyush112&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
-</center>
-<center>
-  
-![](https://streak-stats.demolab.com/?user=Pratyush112&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pratyush112&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</center>
+
 ---
 
 ### ✍️ Random Dev Quote
