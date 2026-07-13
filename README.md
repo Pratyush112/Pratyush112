@@ -8,23 +8,33 @@ Software Engineer passionate about solving complex problems through clean, scala
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasaha003) <br/> 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasaha018@gmail.com ) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack and Skills:
 ### Programming Language
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) (Learning)
+
+--- 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <br/>
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+
+---
 ### Backend
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) <br/> 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+
+---
 ### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+
+---
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) <br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)   
+
+---
 ### Cloud & Deployment
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) <br/>
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#) <br/>
