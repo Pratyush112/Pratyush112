@@ -51,10 +51,6 @@ Software Engineer passionate about solving complex problems through clean, scala
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pratyush112&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=Pratyush112&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
