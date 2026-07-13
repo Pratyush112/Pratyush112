@@ -24,9 +24,6 @@ I'm Pratyush, <br>Software Engineer passionate about solving complex problems th
 ---
 [![](https://komarev.com/ghpvc/?username=Pratyush112&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pratyush.29@ybl) 
-
 <!--
 **Pratyush112/Pratyush112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
