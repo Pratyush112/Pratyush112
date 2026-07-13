@@ -4,7 +4,7 @@ Software Engineer passionate about solving complex problems through clean, scala
 
 ## 🌐 Socials:
 <a href="https://instagram.com/_pratyush_ks">
-   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-kumar-saha-98929b233) <br/>
