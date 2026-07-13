@@ -6,10 +6,15 @@ Software Engineer passionate about solving complex problems through clean, scala
 <a href="https://instagram.com/_pratyush_ks">
    <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-kumar-saha-98929b233) <br/>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasaha003) <br/> 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasaha018@gmail.com ) 
+<a href="https://linkedin.com/in/pratyush-kumar-saha-98929b233">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://x.com/prasaha003">
+   <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+<a href="mailto:prasaha018@gmail.com">
+   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 # 💻 Tech Stack and Skills:
 ### Programming Language
