@@ -1,3 +1,7 @@
+<p align="center"> 
+   <img src="./Github Banner.png" alt="GitHub Banner" width="100%" /> 
+</p>
+
 # Hi, I am Pratyush Kumar Saha :raising_hand:
 Software Engineer passionate about solving complex problems through clean, scalable, and efficient code. <br>Currently sharpening Data Structure and Algorithms, Backend Development, and AI Engineering, while building impactful projects and preparing for software engineering roles.
 
