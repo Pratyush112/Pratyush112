@@ -1,4 +1,4 @@
-# Hi, I am Pratyush Kumar Saha:
+# Hi, I am Pratyush Kumar Saha :raising_hand:
 Software Engineer passionate about solving complex problems through clean, scalable, and efficient code. <br>Currently sharpening Data Structure and Algorithms, Backend Development, and AI Engineering, <br>while building impactful projects and preparing for top-tier software engineering <br>roles. <br>
 
 
