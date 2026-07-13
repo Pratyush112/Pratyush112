@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Pratyush, <br>Software Engineer passionate about solving complex problems through clean, scalable, and efficient code. <br>Currently sharpening Data Structure and Algorithms, Backend Development, and AI Engineering, <br>while building impactful projects and preparing for top-tier software engineering <br>roles. <br>
+# Hi, I am Pratyush Kumar Saha:
+Software Engineer passionate about solving complex problems through clean, scalable, and efficient code. <br>Currently sharpening Data Structure and Algorithms, Backend Development, and AI Engineering, <br>while building impactful projects and preparing for top-tier software engineering <br>roles. <br>
 
 
 ## 🌐 Socials:
