@@ -3,7 +3,10 @@ Software Engineer passionate about solving complex problems through clean, scala
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pratyush_ks) <br/> 
+<a href="https://instagram.com/_pratyush_ks">
+   <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratyush-kumar-saha-98929b233) <br/>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasaha003) <br/> 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasaha018@gmail.com ) 
@@ -14,27 +17,23 @@ Software Engineer passionate about solving complex problems through clean, scala
 
 --- 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) <br/>
-[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
 ---
 ### Backend
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) <br/> 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs)](https://skillicons.dev)
 
 ---
 ### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) <br/>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ---
 ### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) <br/>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)   
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)  
 
 ---
 ### Cloud & Deployment
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) <br/>
+[![My Skills](https://skillicons.dev/icons?i=vercel,aws,gcp)](https://skillicons.dev)  
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#) <br/>
 
 ---
